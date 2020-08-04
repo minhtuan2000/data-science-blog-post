@@ -10,7 +10,7 @@ During my first project in Udacity's Data Scientist Nanodegree, I attempted to f
 
 ## Directory
 
-This repository contains two notebooks and two datasets.
+This repository contains two notebooks and one dataset.
 
 - `data_cleaning.ipynb` cleans the raw dataset
 - `data_visualization.ipynb` provides visualizations for analysis

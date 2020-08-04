@@ -41,4 +41,4 @@ Here are a quick summary of the analysis, these results are covered in detail in
 This analysis uses [Steam Store Games](https://www.kaggle.com/nikdavis/steam-store-games) dataset, which contains steam data gathered from [the Steam Store and SteamSpy APIs](https://nik-davis.github.io/posts/2019/steam-data-collection/) around May 2019.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](LICENSE)

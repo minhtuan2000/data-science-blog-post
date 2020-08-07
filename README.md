@@ -4,9 +4,11 @@
      alt="Steam"
      style="text-align: center; width: 400px;" />
 
-Steam is the biggest game distribution platform in the world with a whopping of [21,000 titles](https://leftronic.com/steam-statistics/) in 2020. But which titles are being played the most and which genres are popular? Is there a game or a genre that dominate the rest?
+Steam is the biggest game distribution platform in the world with a whopping of [30,000 titles](https://leftronic.com/steam-statistics/) in 2020. But which titles are being played the most and which genres are popular? Is there a game or a genre that dominate the rest?
 
-During my first project in Udacity's Data Scientist Nanodegree, I attempted to find answers for these enquiries
+During my first project in Udacity's Data Scientist Nanodegree, I attempted to find answers for these enquiries.
+
+Here is a link to my blog post on Medium: 
 
 ## Directory
 

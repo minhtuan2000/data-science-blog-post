@@ -10,6 +10,8 @@ During my first project in Udacity's Data Scientist Nanodegree, I attempted to f
 
 Here is a link to my blog post on Medium: 
 
+https://medium.com/@minhtuan270820000/the-gaming-trends-on-steam-in-term-of-total-playtime-f7cb538eaa
+
 ## Directory
 
 This repository contains two notebooks and one dataset.
@@ -22,7 +24,7 @@ This repository contains two notebooks and one dataset.
 
 ## Results
 
-Here are a quick summary of the analysis, these results are covered in detail in my blog post.
+Here are a quick summary of the analysis, these results are covered in detail in [my blog post](https://medium.com/@minhtuan270820000/the-gaming-trends-on-steam-in-term-of-total-playtime-f7cb538eaa).
 
 1. Three titles *Dota 2*, *PLAYERUNKNOWN'S BATTLEGROUND* and *Counter-Strike: Global Offensive* dominate 60% of total playtime on Steam
 

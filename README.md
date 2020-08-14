@@ -1,9 +1,8 @@
 # The Gaming Trends on Steam
 
-<figure class="image">
-  <img src="store_home.jpg" alt="Steam">
-  <figcaption><i>Source: <a href=https://store.steampowered.com>Steam</a></i></figcaption>
-</figure>
+| ![](store_home.jpg "Steam") | 
+|:--:| 
+| *Source: [Steam](https://store.steampowered.com)* |
 
 Steam is the biggest game distribution platform in the world with a whopping of [30,000 titles](https://leftronic.com/steam-statistics/) in 2020. But which titles are being played the most and which genres are popular? Is there a game or a genre that dominate the rest?
 
